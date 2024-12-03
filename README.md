@@ -1,9 +1,11 @@
 # advent-of-code-2024
 
+Written by Anna using Typescript and zero brain cells :D
+
+
 **To Run Code** npx ts-node .\days\day1.ts
 - replace with file for day you want to run
 
-Written by Anna using Typescript and zero brain cells :D
 
 ### Day Breakdown
 
