@@ -1,0 +1,7 @@
+#npm build
+node_modules/
+
+# vs-code
+.vscode
+
+package-lock.json

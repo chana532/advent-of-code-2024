@@ -1,0 +1,13 @@
+{
+    "name": "advent-of-code-2024",
+    "version": "0.0.1",
+    "description": "advent code 2024",
+    "author": "anna",
+    "scripts": {
+    },
+    "devDependencies": {
+        "@types/node": "20.10.1",
+        "ts-node": "10.9.1",
+        "typescript": "5.3.2"
+    }
+}
